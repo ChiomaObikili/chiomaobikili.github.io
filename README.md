@@ -1,6 +1,6 @@
 ## 👋 About Me <h1>Hi, I'm Chioma Jennifer Obikili! 
 
-I'm **Chioma Obikili** — a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
+a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
 
 🔍 My journey into analytics began with a curiosity about how data can reveal patterns and drive smarter decisions. That curiosity turned into a passion, and I’ve since built skills in **Python**, **SQL**, **Excel**, and **Tableau** to uncover insights and support meaningful action.
 
