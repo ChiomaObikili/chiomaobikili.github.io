@@ -40,5 +40,6 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 [tableau]: https://public.tableau.com/app/profile/chioma.jennifer.obikili/vizzes
 
 
+![Location](https://img.shields.io/badge/Location-Aachen,%20Germany-blue?style=flat-square&logo=googlemaps)
 
 <!--
