@@ -17,7 +17,7 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 - [Rockbuster Stealth Data Analysis](https://github.com/ChiomaObikili/Rockbuster-Stealth-Project/tree/main)
 - [Instacart Grocery Basket Analysis](https://github.com/ChiomaObikili/Instacart-Grocery-Basket-Project/tree/main)
 - [Pig E Bank Churn Analysis](https://github.com/ChiomaObikili/Pig-E-Bank-Analysis-Project/tree/main)
-- [King County Housing Price Prediction](https://github.com/ChiomaObikili/housing-price-prediction) *(coming soon)*
+- [King County Housing Price Prediction](https://github.com/ChiomaObikili/King-House-County-Analysis-Project/tree/main)
 
 
 ## 💼 Tech Stack & Tools
