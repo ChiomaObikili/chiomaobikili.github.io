@@ -13,7 +13,7 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 ---
 ## 📂 My Projects
 
-- [Preparing for Influenza Season](https://github.com/ChiomaObikili/flu-season-analysis) *(coming soon)*
+- [Preparing for Influenza Season](https://github.com/ChiomaObikili/Preparing-for-Influenza-Season/tree/main)
 - [Rockbuster Stealth Data Analysis](https://github.com/ChiomaObikili/rockbuster-analysis) *(coming soon)*
 - [Instacart Grocery Basket Analysis](https://github.com/ChiomaObikili/instacart-analysis) *(coming soon)*
 - [Pig E Bank Churn Analysis](https://github.com/ChiomaObikili/churn-analysis) *(coming soon)*
