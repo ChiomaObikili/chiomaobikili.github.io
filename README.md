@@ -31,6 +31,9 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+## 📂 My Resume
+[Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Preparing-for-Influenza-Season/tree/main)
+
 
 
 <h2> 🤳 Connect with me:</h2>
