@@ -32,7 +32,7 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 
 
 ## 📂 My Resume
-[Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Preparing-for-Influenza-Season/tree/main)
+[Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Chioma-Jennifer-Obikili-Resume/blob/main/Chioma%20Jennifer%20Obikili%20Resume..pdf)
 
 
 
