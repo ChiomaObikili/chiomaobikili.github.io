@@ -45,12 +45,40 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 
 <br />
 
+
+
 [linkedin]: https://www.linkedin.com/in/chioma-obikili/  
 [github]: https://github.com/ChiomaObikili  
 [email]: mailto:obikilichioma9@gmail.com  
 [tableau]: https://public.tableau.com/app/profile/chioma.jennifer.obikili/vizzes
 
 
+
+
 ![Location](https://img.shields.io/badge/Location-Aachen,%20Germany-blue?style=flat-square&logo=googlemaps)
 
 
+
+
+## Impressum
+
+**Angaben gemäß § 5 TMG**
+
+[Chioma Jennifer Obikili]  
+[Am Alten Bahndamm]  
+[52072 Aachen]  
+Germany
+
+**Kontakt:**  
+E-Mail: [obikilichioma9@gmail.com]
+
+**Vertreten durch:**  
+[Chioma Jennifer Obikili]
+
+**Umsatzsteuer:**  
+Keine Ausweisung der Umsatzsteuer gemäß § 19 UStG (Kleinunternehmerregelung).
+
+**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**  
+[Chioma Jennifer Obikili]  
+[Am Alten Bahndamm]  
+[52072 Aachen]
