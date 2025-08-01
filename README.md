@@ -2,11 +2,11 @@
 
 a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
 
-🔍 My journey into analytics began with a curiosity about how data can reveal patterns and drive smarter decisions. That curiosity turned into a passion, and I’ve since built skills in **Python**, **SQL**, **Excel**, and **Tableau** to uncover insights and support meaningful action.
+As a training development manager working with data gotten from employee performance and quality assurance my journey into analytics began with a keen curiosity on how data can assist to drive smarter decisions. This drive prompted me to build skills in **Python**, **SQL**, **Excel**, and **Tableau**.
 
-✨ What sets me apart? I combine analytical thinking with empathy and communication — helping teams not just understand data, but use it to solve real-world problems.
+✨ I combine analytical thinking with effective communication to help teams not only understand data but also turn it into actionable solutions — resolving customer-related complaints while still achieving key performance metrics.
 
-🚀 I’m passionate about applying analytics in fields like healthcare, education, and social impact, and I’m currently seeking **remote or hybrid opportunities** where I can grow, contribute, and collaborate.
+🚀 I’m interested in applying analytics in fields like telecommunication, healthcare, education, and social impact, and I’m currently seeking **remote or hybrid opportunities** where I can grow, contribute, and collaborate.
 
 📚 When I’m not analyzing data, I’m caring for my home 👨‍👩‍👧, reading a good book 📖, or exploring ways to keep learning 📈.
 
