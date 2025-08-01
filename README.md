@@ -1,4 +1,4 @@
-## About Me <h1>Hi 👋, I'm Chioma Jennifer Obikili! 
+## About Me Hi 👋, I'm Chioma Jennifer Obikili! 
 
 a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
 
@@ -50,4 +50,4 @@ a 💻 data analyst with a background in 🧠 training, 📊 workforce planning,
 
 ![Location](https://img.shields.io/badge/Location-Aachen,%20Germany-blue?style=flat-square&logo=googlemaps)
 
-<!--
+
