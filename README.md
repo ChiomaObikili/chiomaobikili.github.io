@@ -13,11 +13,11 @@ As a training development manager working with data gotten from employee perform
 ---
 ## 📂 My Projects
 
-- [Preparing for Influenza Season](https://github.com/ChiomaObikili/Preparing-for-Influenza-Season/tree/main)
-- [Rockbuster Stealth Data Analysis](https://github.com/ChiomaObikili/Rockbuster-Stealth-Project/tree/main)
-- [Instacart Grocery Basket Analysis](https://github.com/ChiomaObikili/Instacart-Grocery-Basket-Project/tree/main)
-- [Pig E Bank Churn Analysis](https://github.com/ChiomaObikili/Pig-E-Bank-Analysis-Project/tree/main)
-- [King County Housing Price Prediction](https://github.com/ChiomaObikili/King-House-County-Analysis-Project/tree/main)
+- [Preparing for Influenza Season](https://chiomaobikili.github.io/Preparing-for-Influenza-Season/)
+- [Rockbuster Stealth Data Analysis](https://chiomaobikili.github.io/Rockbuster-Stealth-Project/)
+- [Instacart Grocery Basket Analysis](https://chiomaobikili.github.io/Instacart-Grocery-Basket-Project/) 
+- [Pig E Bank Churn Analysis](https://chiomaobikili.github.io/Pig-E-Bank-Analysis-Project/)
+- [King County Housing Price Prediction](https://chiomaobikili.github.io/King-House-County-Analysis-Project/)
 
 
 ## 💼 Tech Stack & Tools
@@ -32,7 +32,7 @@ As a training development manager working with data gotten from employee perform
 
 
 ## 📂 My Resume
-[Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Chioma-Jennifer-Obikili-Resume/blob/main/Chioma%20Jennifer%20Obikili%20Resume..pdf)
+[Chioma Jennifer Obikili Resume](https://chiomaobikili.github.io/Chioma-Jennifer-Obikili-Resume/)
 
 
 
