@@ -1,4 +1,6 @@
-## About Me Hi 👋, I'm Chioma Jennifer Obikili! 
+## About Me 
+
+Hi 👋, I'm Chioma Jennifer Obikili! 
 
 a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
 
