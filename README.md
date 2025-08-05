@@ -34,6 +34,12 @@ As a training development manager working with data gotten from employee perform
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+## 📄 View My Resume
+
+[👉 View My Resume in Browser](https://docs.google.com/gview?url=https://github.com/ChiomaObikili/Chioma-Jennifer-Obikili-Resume/raw/main/Chioma%20Jennifer%20Obikili%20Resume..pdf&embedded=true)
+
+
+
 ## 📂 Download My Resume
 [Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Chioma-Jennifer-Obikili-Resume/raw/main/Chioma%20Jennifer%20Obikili%20Resume..pdf)
 
