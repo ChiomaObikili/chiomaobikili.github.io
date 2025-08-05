@@ -1,8 +1,4 @@
-<img src="/profile.jpg" alt="Chioma Jennifer Obikili" width="200" style="border-radius: 50%;">
-
-
-## About Me 
-
+<img src="/profile.jpg" alt="Chioma Jennifer Obikili" width="200" style="border-radius: 50%;"> ## About Me 
 Hi 👋, I'm Chioma Jennifer Obikili! 
 
 a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
