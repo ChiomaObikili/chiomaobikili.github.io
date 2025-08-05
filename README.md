@@ -35,7 +35,8 @@ As a training development manager working with data gotten from employee perform
 
 
 ## 📂 My Resume
-[Chioma Jennifer Obikili Resume](https://chiomaobikili.github.io/Chioma-Jennifer-Obikili-Resume/)
+[Chioma Jennifer Obikili Resume](https://github.com/ChiomaObikili/Chioma-Jennifer-Obikili-Resume/raw/main/Chioma%20Jennifer%20Obikili%20Resume..pdf)
+
 
 
 
