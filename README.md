@@ -2,15 +2,10 @@
 
 ## About Me 
 Hi 👋, I'm Chioma Jennifer Obikili! 
-
 a 💻 data analyst with a background in 🧠 training, 📊 workforce planning, and 🤝 customer service.
-
 As a training development manager working with data gotten from employee performance and quality assurance my journey into analytics began with a keen curiosity on how data can assist to drive smarter decisions. This drive prompted me to build skills in **Python**, **SQL**, **Excel**, and **Tableau**.
-
 ✨ I combine analytical thinking with effective communication to help teams not only understand data but also turn it into actionable solutions — resolving customer-related complaints while still achieving key performance metrics.
-
 🚀 I’m interested in applying analytics in fields like telecommunication, healthcare, education, and social impact, and I’m currently seeking **remote or hybrid opportunities** where I can grow, contribute, and collaborate.
-
 📚 When I’m not analyzing data, I’m caring for my home 👨‍👩‍👧, reading a good book 📖, or exploring ways to keep learning 📈.
 
 ---
